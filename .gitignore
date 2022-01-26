@@ -4,3 +4,5 @@ debug.log
 public/admin/test.php
 public/admin/file.php
 composer.lock
+
+vendor
